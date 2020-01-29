@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Excited to learn and use git and github.
 Use the left arrow to go back!
 
